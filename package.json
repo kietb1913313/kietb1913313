@@ -1,0 +1,26 @@
+{
+  "name": "node_f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kietb1913313/kietb1913313.git"
+  },
+  "author": "Trung Kiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kietb1913313/kietb1913313/issues"
+  },
+  "homepage": "https://github.com/kietb1913313/kietb1913313#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
